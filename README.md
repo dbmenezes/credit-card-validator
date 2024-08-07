@@ -4,7 +4,7 @@ This project is divided into two main parts: the backend, which performs the val
 
 ## How to Run the Projects
 
-To run these projects, you will need to have Node.js and Yarn installed on your machine. Follow the steps below to start both the backend and the frontend.
+To run these projects, you will need to have Node.js and Npm installed on your machine. Follow the steps below to start both the backend and the frontend.
 
 ### Backend
 
